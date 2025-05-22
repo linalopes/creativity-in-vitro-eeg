@@ -1,0 +1,13 @@
+name: creativity-eeg
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - jupyterlab
+  - mne
+  - scikit-learn
