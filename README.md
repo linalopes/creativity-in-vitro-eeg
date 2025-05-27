@@ -7,7 +7,7 @@ This repository contains code and data for analyzing EEG (Electroencephalography
 ```
 .
 ├── bids_dataset/     # BIDS-formatted EEG dataset
-├── derivatives/      # Processed data and analysis
+├── data/
 ├── notebooks/        # Jupyter notebooks for analysis
 └── environment.yml   # Conda environment configuration
 ```
@@ -49,7 +49,10 @@ The project uses the following main Python packages:
 
 ## Data
 
-The project uses BIDS-formatted EEG data stored in the `bids_dataset/` directory. Processed data and analysis results are stored in the `derivatives/` directory. (work in progress)
+The project contains raw EEG data (first_dataset_raw) recorded using the OpenBCI Cyton board with the Daisy extension (14 channels total). The recordings were made as part of the project **Creativity in vitro**, which investigates how brain activity responds to lyrical and semantic patterns in music.
+
+Lina, the participant listened to 20 repeated loops of 3 of the first six phrases of the song *Aquarela* by Toquinho. These 20 sessions were recorded consecutively in one continuous session, without restarting the OpenBCI GUI.
+
 
 ## License
 
