@@ -1,8 +1,7 @@
-pandas
-numpy
-matplotlib
-seaborn
-scipy
-jupyterlab
-mne
-scikit-learn
+pandas 2.2.3
+numpy 2.2.6
+matplotlib 3.10.3
+seaborn 0.13.2
+scipy 1.15.2
+mne 1.9.0
+scikit-learn 1.6.1
