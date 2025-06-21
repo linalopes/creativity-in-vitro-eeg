@@ -1,0 +1,24 @@
+{
+    "Name": "Creativity in Vitro \u2013 EEG Music Phrases",
+    "BIDSVersion": "1.8.0",
+    "License": "CC-BY 4.0",
+    "Authors": [
+        "Lina Lopes"
+    ],
+    "Acknowledgements": "EEG data collection with OpenBCI Cyton + Daisy, session on 2025-06-21.",
+    "HowToAcknowledge": "Please cite 'Creativity in Vitro \u2013 EEG Music Phrases (2025)' and the corresponding Zenodo DOI.",
+    "DatasetType": "raw",
+    "Keywords": [
+        "EEG",
+        "creativity",
+        "music",
+        "phrases",
+        "art-science"
+    ],
+    "Funding": [
+        "Cloudwalk"
+    ],
+    "ReferencesAndLinks": [
+        "https://github.com/linlopes/creativity-in-vitro-eeg"
+    ]
+}
