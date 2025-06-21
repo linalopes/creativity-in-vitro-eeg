@@ -12,7 +12,7 @@
             60
         ]
     },
-    "Description": "Filtered and cropped EEG: 136s from D12 trigger (1\u21920 transition).",
+    "Description": "Filtered EEG task segment (133s) after trigger.",
     "Authors": [
         "Lina Lopes"
     ]

@@ -1,0 +1,19 @@
+{
+    "TaskName": "musicphrases",
+    "SamplingFrequency": 125.0,
+    "EEGReference": "average",
+    "PowerLineFrequency": 50.0,
+    "EEGChannelCount": 14,
+    "SoftwareFilters": {
+        "HighPass": 1.0,
+        "LowPass": 45.0,
+        "Notch": [
+            50,
+            60
+        ]
+    },
+    "Description": "Filtered EEG baseline segment (final 3s after task).",
+    "Authors": [
+        "Lina Lopes"
+    ]
+}
