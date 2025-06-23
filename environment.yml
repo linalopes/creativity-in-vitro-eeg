@@ -1,13 +1,23 @@
 name: creativity-eeg
 channels:
   - conda-forge
+  - defaults
 dependencies:
-  - python=3.10
-  - pandas
-  - numpy
-  - matplotlib
-  - seaborn
-  - scipy
-  - jupyterlab
-  - mne
-  - scikit-learn
+  - python=3.10.12
+  - numpy=1.25.2
+  - pandas=2.2.3
+  - matplotlib=3.10.3
+  - seaborn=0.13.2
+  - scipy=1.15.2
+  - mne=1.9.0
+  - mne-icalabel=0.7.0
+  - scikit-learn=1.6.1
+  - pytorch=2.7.1
+  - plotly
+  - lightgbm=4.6.0
+  - torchmetrics=1.7.3
+  - pip
+  - pip:
+      - onnxruntime
+      - onnxruntime-silicon
+      - braindecode==0.8.1
