@@ -1,0 +1,18 @@
+{
+    "TaskName": "sunimagery",
+    "SamplingFrequency": 250.0,
+    "EEGReference": "average",
+    "PowerLineFrequency": 50.0,
+    "EEGChannelCount": 8,
+    "SoftwareFilters": {
+        "HighPass": 1.0,
+        "LowPass": 45.0,
+        "Notch": [
+            50
+        ]
+    },
+    "Description": "Filtered EEG baseline segment (final 3s after task).",
+    "Authors": [
+        "Lina Lopes"
+    ]
+}
