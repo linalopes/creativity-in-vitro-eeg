@@ -1,0 +1,17 @@
+{
+  "TaskName": "sing",
+  "Description": "Participants listened to a looping audio consisting of one melodic phrase followed by six lyrical phrases, repeated three times.",
+  "Instructions": "Close your eyes and internally sing along with the lyrical phrases, synchronizing your inner voice with the rhythm and melody of the audio.",
+  "Stimuli": "stimuli/audio_phrases_ses-01-02.mp4",
+  "StimulusDescription": "The audio is a 2-minute and 13-second composition with a repeating structure: one melodic introduction followed by six lyrical phrases, looped three times.",
+  "Modality": "auditory",
+  "SensoryModality": "auditory",
+  "CognitiveDescription": "Internal auditory rehearsal and musical imagery.",
+  "CognitiveBehavioralInstructions": "Stay still, keep your eyes closed, and imagine singing the lyrics silently in sync with the audio.",
+  "IntendedFor": [
+    "sub-lina/ses-02/eeg/sub-lina_ses-02_task-sing_run-01_eeg.fif",
+    "sub-lina/ses-02/eeg/sub-lina_ses-02_task-sing_run-02_eeg.fif",
+    "...",
+    "sub-lina/ses-02/eeg/sub-lina_ses-02_task-sing_run-21_eeg.fif"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "TaskName": "visualize",
+  "Description": "Participants listened to a looping audio consisting of one melodic phrase followed by six lyrical phrases, repeated three times.",
+  "Instructions": "Close your eyes and create mental images inspired by the content of each lyrical phrase. Focus on visualizing each sentence as vividly as possible.",
+  "Stimuli": "stimuli/audio_phrases_ses-01-02.mp4",
+  "StimulusDescription": "The audio is a 2-minute and 13-second composition with a repeating structure: one melodic introduction followed by six lyrical phrases, looped three times.",
+  "Modality": "auditory",
+  "SensoryModality": "auditory",
+  "CognitiveDescription": "Mental imagery triggered by lyrical musical content.",
+  "CognitiveBehavioralInstructions": "Stay still, keep your eyes closed, and visualize the meaning or narrative of each phrase in your mind.",
+  "IntendedFor": [
+    "sub-lina/ses-01/eeg/sub-lina_ses-01_task-visualize_run-01_eeg.fif",
+    "sub-lina/ses-01/eeg/sub-lina_ses-01_task-visualize_run-02_eeg.fif",
+    "...",
+    "sub-lina/ses-01/eeg/sub-lina_ses-01_task-visualize_run-20_eeg.fif"
+  ]
+}

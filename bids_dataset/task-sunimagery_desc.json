@@ -1,0 +1,14 @@
+{
+  "TaskName": "sunimagery",
+  "Description": "Participants listened to an audio containing alternating instructions: 'Imagine the sun on your face' and 'Relax', repeated over 30 cycles.",
+  "Instructions": "Close your eyes, remain still, and follow each instruction mentally: vividly imagine the sun on your face, then relax during the following segment.",
+  "Stimuli": "stimuli/audio_instructions_ses-03.wav",
+  "StimulusDescription": "The audio consists of 30 alternating cycles of two verbal instructions: one encouraging vivid visual imagery ('Imagine the sun on your face') and one prompting relaxation ('Relax'). Each instruction is followed by a silent pause before the next begins.",
+  "Modality": "auditory",
+  "SensoryModality": "auditory",
+  "CognitiveDescription": "Alternating visual imagery and relaxation prompted by verbal instructions.",
+  "CognitiveBehavioralInstructions": "Stay physically still with eyes closed, imagine sunlight on the face during the imagery instruction, and release mental activity during the relaxation period.",
+  "IntendedFor": [
+    "sub-lina/ses-03/eeg/sub-lina_ses-03_task-sunimagery_run-01_eeg.fif"
+  ]
+}

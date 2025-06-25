@@ -1,0 +1,9 @@
+name	type	units	description
+F3	EEG	µV	active gel electrode
+F4	EEG	µV	active gel electrode
+C3	EEG	µV	active gel electrode
+C4	EEG	µV	active gel electrode
+P3	EEG	µV	active gel electrode
+P4	EEG	µV	active gel electrode
+Pz	EEG	µV	active gel electrode
+Oz	EEG	µV	active gel electrode
