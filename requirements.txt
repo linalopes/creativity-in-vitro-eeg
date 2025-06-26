@@ -11,3 +11,4 @@ braindecode=0.8.1
 plotly
 lightgbm=4.6.0
 torchmetrics=1.7.3
+antropy=0.1.9
